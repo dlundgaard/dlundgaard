@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Daniel
 
-Currently studying BSc Cognitive Science at Aarhus University 🧠
+Currently studying Cognitive Science (BSc) at Aarhus University 🧠
 
-Interested in all things tech, data science, motorsport and neuroscience 👀
+Interested in all things tech, motorsport, data analysis, and neuroscience 👀
